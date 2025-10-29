@@ -49,7 +49,7 @@ My work covers:
 ## 🌎 Connect With Me
 
 Want to collaborate or discuss a technical challenge?  
-Find me at [showingcloud.com](http://showingcloud.com), [wgq.me](http://wgq.me), or via GitHub [wangguoqin1001](https://github.com/wangguoqin1001).
+Find me at [showingcloud.com](http://showingcloud.com), [wgq.me](http://wgq.me), or via GitHub [wangguoqin1001](https://github.com/wangguoqin1001) [showingcloud] (https://github.com/showingcloud).
 
 Building the future, one commit at a time 🌟
 
@@ -57,7 +57,6 @@ Building the future, one commit at a time 🌟
 
 <sub>
 **Disclaimers:**  
-- This page includes personal opinions and tool-assisted content.  
-- Generated in part with AI.  
-- Auto-committer may be used for convenience.
+- I used AI to generate this page.  
+- I'm using auto-committer as I don't want to worry about that everyday.
 </sub>
