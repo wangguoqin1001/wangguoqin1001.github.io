@@ -49,7 +49,7 @@ My work covers:
 ## 🌎 Connect With Me
 
 Want to collaborate or discuss a technical challenge?  
-Find me at [showingcloud.com](http://showingcloud.com), [wgq.me](http://wgq.me), or via GitHub [wangguoqin1001](https://github.com/wangguoqin1001) [showingcloud] (https://github.com/showingcloud).
+Find me at [showingcloud.com](http://showingcloud.com), [wgq.me](http://wgq.me), or via GitHub [wangguoqin1001](https://github.com/wangguoqin1001) [showingcloud](https://github.com/showingcloud).
 
 Building the future, one commit at a time 🌟
 
