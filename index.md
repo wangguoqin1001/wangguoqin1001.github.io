@@ -56,7 +56,7 @@ Building the future, one commit at a time 🌟
 ---
 
 <sub>
-**Disclaimers:**  
-- I used AI to generate this page.  
+**Disclaimers:**<br>
+- I used AI to generate this page. Ask me for details.<br>
 - I'm using auto-committer as I don't want to worry about that everyday.
 </sub>
